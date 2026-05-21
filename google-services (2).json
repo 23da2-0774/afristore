@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603888248786",
+    "project_id": "afristore-b815e",
+    "storage_bucket": "afristore-b815e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603888248786:android:5a7bd157db05ada2094a0b",
+        "android_client_info": {
+          "package_name": "com.example.afristore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpz0NZ1YP4m20q9WjGw_XwkhUl5_EH-5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
